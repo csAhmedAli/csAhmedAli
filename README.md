@@ -10,8 +10,7 @@ passionate about building modern web experiences and interactive games.
 I enjoy turning ideas into functional projects,
 learning how things work, and improving them step by step.
 
-**Build it. Understand it. Improve it.**
-
+**From concepts to code, from experiments to experiences.**
 </div>
 
 ---
