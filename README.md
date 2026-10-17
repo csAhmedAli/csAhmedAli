@@ -1,34 +1,193 @@
-# Hi, I'm Ahmed 👋
+<div align="center">
 
-I’m a software developer passionate about building clean, useful, and scalable digital products.
+# Hi, I'm Ahmed Ali 👋
 
-- 🔭 I’m currently working on web and backend projects
-- 🌱 I’m learning modern frontend and full-stack development
-- 👯 I’m open to collaborating on meaningful projects
-- 💬 Ask me about JavaScript, TypeScript, React, Node.js, and APIs
-- 📫 Reach me through GitHub or email
+### Frontend Developer | Aspiring Game Developer 🎮
+
+I'm a Computer Science student and developer from Pakistan 🇵🇰,
+passionate about building modern web experiences and interactive games.
+
+I enjoy turning ideas into functional projects,
+learning how things work, and improving them step by step.
+
+**Build it. Understand it. Improve it.**
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Pursuing **BS Computer Science** at UCP
+- 💻 Focused on **Frontend Development**
+- 🎮 Exploring **Game Development with Unity & C#**
+- 🚀 Interested in interactive web experiences and game mechanics
+- 🛠️ Experience contributing to real-world commercial websites
+- 🌱 Currently learning **Unity, C#, and Game Architecture**
+- 🤝 Open to collaborations and frontend development opportunities
 - ⚡ Fun fact: I enjoy turning ideas into working solutions
 
-## Tech Stack
+---
 
+## 🛠️ Tech Stack
+
+### 🌐 Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### 🎮 Game Development
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### 🗄️ Backend Services & Database
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Basic-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ⚙️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-## GitHub Overview
+---
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=csAhmedAli&show_icons=true&theme=tokyonight)
+## 🚀 Featured Projects
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csAhmedAli&layout=compact&theme=tokyonight)
+### 💡 Edison Lighting — Commercial Website
 
-## Connect
+A commercial lighting website developed in collaboration
+with **Unitrix Solutions**.
 
-- GitHub: [@csAhmedAli](https://github.com/csAhmedAli)
-- Let’s connect and build something impactful together
+**My Role:** Frontend Contributor
 
-Thanks for visiting my profile! 🚀
+**Highlights:**
+- Real-world website development
+- Responsive web interfaces
+- Collaborative development experience
+
+🔗 **[Visit Live Website](https://edisonlightingpk.com/)**
+
+---
+
+### 🎮 Fire & Water — Unity 2D Game
+
+A cooperative 2D puzzle-platformer inspired by
+classic two-character puzzle games.
+
+**Built With:** Unity, C#
+
+**Features:**
+- Two-player movement and jumping
+- Physics-based interactions
+- Interactive levers and moving platforms
+- Collectible diamonds
+- Hazard detection and game-over system
+- Level completion mechanics
+- Timer and score system
+
+**Status:** Level 1 Prototype
+
+---
+
+### 🛒 E-Commerce Engine
+
+A reusable multi-store e-commerce system designed
+to support different businesses.
+
+**Built With:** HTML, TypeScript, Tailwind CSS, Supabase
+
+**Features:**
+- Multi-store architecture
+- User authentication
+- Role-based access structure
+- Store administration
+- Product management
+
+**Status:** In Development
+
+---
+
+## 💼 Professional Experience
+
+### Frontend Development Contributor
+**Unitrix Solutions**
+
+Contributed to frontend development for real-world
+commercial projects, including Edison Lighting.
+
+🌐 [Unitrix Solutions](https://unitrixsolutions.com/)
+
+---
+
+## 📚 Currently Learning
+
+```text
+🎮 Game Development
+   ├── Unity 2D
+   ├── C# Programming
+   ├── Game Physics
+   ├── Player Controllers
+   └── Game Architecture
+
+🌐 Frontend Development
+   ├── Modern JavaScript
+   ├── React Development
+   ├── Responsive UI
+   └── Web Performance
+```
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=csAhmedAli&show_icons=true&theme=tokyonight&hide_border=true"
+  height="170"
+  alt="GitHub Statistics"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=csAhmedAli&layout=compact&theme=tokyonight&hide_border=true"
+  height="170"
+  alt="Most Used Languages"
+/>
+
+</div>
+
+---
+
+## 🎯 My Goals
+
+- 🎮 Build and publish my own indie games
+- 💻 Become a stronger frontend developer
+- 🧠 Understand programming concepts deeply
+- 🚀 Develop meaningful real-world projects
+- 🌍 Collaborate with developers worldwide
+
+---
+
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-csAhmedAli-181717?style=for-the-badge&logo=github)](https://github.com/csAhmedAli)
+
+---
+
+<div align="center">
+
+### 💭 My Development Philosophy
+
+> Make it work. Understand how it works. Then make it better.
+
+**Thanks for visiting my profile! 🚀**
+
+</div>
