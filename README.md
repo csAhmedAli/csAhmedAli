@@ -1,4 +1,7 @@
 <div align="center">
+**Building digital experiences, one project at a time.**
+
+🌐 [Portfolio](https://csahmed.com) · 💻 [GitHub](https://github.com/csAhmedAli) · 🎮 [itch.io](https://csahmedali.itch.io/)
 
 # Hi, I'm Ahmed Ali 👋
 
@@ -191,8 +194,11 @@ commercial projects, including Edison Lighting.
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-csAhmedAli-181717?style=for-the-badge&logo=github)](https://github.com/csAhmedAli)
+[![GitHub](https://img.shields.io/badge/GitHub-csAhmedAli-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/csAhmedAli)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-csahmed.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://csahmed.com)
+
+[![itch.io](https://img.shields.io/badge/itch.io-Flame_and_Flow-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://csahmedali.itch.io/)
 ---
 
 <div align="center">
