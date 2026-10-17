@@ -77,23 +77,28 @@ with **Unitrix Solutions**.
 
 ---
 
-### 🎮 Fire & Water — Unity 2D Game
+### 🎮 [Flame and Flow — Playable Unity Prototype](https://csahmedali.itch.io/flameandflow)
 
-A cooperative 2D puzzle-platformer inspired by
-classic two-character puzzle games.
+A playable 2D local co-op platformer built with **Unity and C#**.
+Control two elemental characters, navigate hazards, and work together
+to reach your goals.
 
-**Built With:** Unity, C#
+**Tech Stack:** Unity, C#
 
 **Features:**
-- Two-player movement and jumping
-- Physics-based interactions
-- Interactive levers and moving platforms
-- Collectible diamonds
-- Hazard detection and game-over system
-- Level completion mechanics
-- Timer and score system
+- 🔥💧 Two playable characters: Flame and Flow
+- 🎮 Local two-player keyboard controls
+- 🕹️ Movement and jumping mechanics
+- ⚠️ Element-based hazards
+- 🏁 Cooperative level completion
+- 💀 Game-over and restart system
+- 🌐 Playable directly in the browser
 
-**Status:** Level 1 Prototype
+**Status:** Playable Prototype v0.1
+
+🎮 **[Play Flame and Flow](https://csahmedali.itch.io/flameandflow)**
+
+🌐 **[Explore My Games on itch.io](https://csahmedali.itch.io/)**
 
 ---
 
