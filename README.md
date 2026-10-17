@@ -200,7 +200,7 @@ commercial projects, including Edison Lighting.
 
 ### 💭 My Development Philosophy
 
-> Make it work. Understand how it works. Then make it better.
+> Build with curiosity. Code with purpose. Improve with every iteration.
 
 **Thanks for visiting my profile! 🚀**
 
