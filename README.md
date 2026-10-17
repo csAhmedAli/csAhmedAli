@@ -97,22 +97,31 @@ classic two-character puzzle games.
 
 ---
 
-### 🛒 E-Commerce Engine
+### 🛒 E-Commerce Engine — AI-Assisted Development
 
-A reusable multi-store e-commerce system designed
-to support different businesses.
+A reusable, multi-store e-commerce system built using a **Vibe Coding approach**, combining AI-assisted development with iterative implementation and problem-solving.
 
-**Built With:** HTML, TypeScript, Tailwind CSS, Supabase
+**Tech Stack:** HTML, TypeScript, Tailwind CSS, Supabase
 
-**Features:**
-- Multi-store architecture
-- User authentication
-- Role-based access structure
-- Store administration
-- Product management
+**What I'm Building:**
+- 🏪 A reusable architecture that supports multiple stores
+- 🔐 Email-based authentication and user management
+- 👥 Role-based access control for different user types
+- 📦 Store and product management
+- 🗄️ Database structure and Supabase integration
+- 🛠️ Iterative development, debugging, and feature improvements
+
+**My Vibe Coding Workflow:**
+- 🤖 Using AI tools to assist with code generation and implementation
+- 💬 Translating requirements into clear prompts and development tasks
+- 🔄 Refining generated code through iterative changes
+- 🐛 Using AI assistance to investigate errors and troubleshoot issues
+- 🧠 Reviewing the generated implementation and learning the underlying concepts
+- ⚙️ Building reusable features instead of limiting the project to a single store
+
+**Development Approach:** Vibe Coding · AI-Assisted Programming · Iterative Development
 
 **Status:** In Development
-
 ---
 
 ## 💼 Professional Experience
